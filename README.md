@@ -1,4 +1,4 @@
-# Antigravity Pilot-Centric Drone Control System
+# Pilot-Centric Drone Control System
 
 This project is a computer vision-based drone control system that identifies a "master pilot" from a video feed and translates their hand gestures into drone commands. It uses a combination of object detection, object tracking, and hand landmark recognition to ensure only the designated pilot can control the drone.
 
